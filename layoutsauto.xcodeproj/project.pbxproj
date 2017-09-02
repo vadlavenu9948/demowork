@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F01779F1F59236200D7CD83 /* brn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F01779E1F59236200D7CD83 /* brn.jpg */; };
+		3F0177A11F5924B500D7CD83 /* logo-big.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F0177A01F5924B500D7CD83 /* logo-big.png */; };
 		3F4A65DC1F568A1500D38F3F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A65DB1F568A1500D38F3F /* main.m */; };
 		3F4A65DF1F568A1500D38F3F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A65DE1F568A1500D38F3F /* AppDelegate.m */; };
 		3F4A65E21F568A1600D38F3F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A65E11F568A1600D38F3F /* ViewController.m */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F01779E1F59236200D7CD83 /* brn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brn.jpg; sourceTree = "<group>"; };
+		3F0177A01F5924B500D7CD83 /* logo-big.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-big.png"; sourceTree = "<group>"; };
 		3F4A65D71F568A1500D38F3F /* layoutsauto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = layoutsauto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F4A65DB1F568A1500D38F3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3F4A65DD1F568A1500D38F3F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				3F4A65DE1F568A1500D38F3F /* AppDelegate.m */,
 				3F4A65E01F568A1500D38F3F /* ViewController.h */,
 				3F4A65E11F568A1600D38F3F /* ViewController.m */,
+				3F0177A01F5924B500D7CD83 /* logo-big.png */,
+				3F01779E1F59236200D7CD83 /* brn.jpg */,
 				3F4A65E31F568A1600D38F3F /* Main.storyboard */,
 				3F4A65E61F568A1600D38F3F /* Assets.xcassets */,
 				3F4A65E81F568A1600D38F3F /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F01779F1F59236200D7CD83 /* brn.jpg in Resources */,
+				3F0177A11F5924B500D7CD83 /* logo-big.png in Resources */,
 				3F4A65EA1F568A1600D38F3F /* LaunchScreen.storyboard in Resources */,
 				3F4A65E71F568A1600D38F3F /* Assets.xcassets in Resources */,
 				3F4A65E51F568A1600D38F3F /* Main.storyboard in Resources */,
@@ -311,6 +319,7 @@
 				3F4A65F01F568A1600D38F3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
